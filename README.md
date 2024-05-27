@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/tuhinm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuhinm2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/tuhinm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tuhinm2002" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tuhinm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tuhinm2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tuhinm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tuhinm2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tuhinm2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tuhinm2002/" height="30" width="40" /></a>
+<a href="https://kaggle.com/tuhinm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tuhinm2002" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tuhinm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tuhinm2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tuhinm2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tuhinm2002/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
