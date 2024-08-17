@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tuhinm2002" target="blank"><img src="https://img.shields.io/twitter/follow/tuhinm2002?logo=twitter&style=for-the-badge" alt="tuhinm2002" /></a> </p>
 
-- 💬 Ask me about **Java and python**
+- 💬 Ask me about **Java and python and AI**
 
 - 📫 How to reach me **tuhinm2002@gmail.com**
 
