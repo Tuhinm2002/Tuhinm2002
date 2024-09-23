@@ -2,8 +2,7 @@
 
 ###
 
-<h2 align="left">Visit my portfolio</h2>
-https://portfolio-j9aajm8g9-tuhinm2002s-projects.vercel.app/
+<h2 align="left">Visit my portfolio</h2> 👉 https://portfolio-j9aajm8g9-tuhinm2002s-projects.vercel.app/
 
 ###
 
