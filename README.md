@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Tuhin and I'm a Backend and AI developer from India</h2>
 
 ###
+<h2 align="left">Visit my portfolio</h2>
+https://portfolio-j9aajm8g9-tuhinm2002s-projects.vercel.app/
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuhinm2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
