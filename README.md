@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-<h2>Visit my portfolio</h2> 
+Visit my portfolio
 👉 https://portfolio-j9aajm8g9-tuhinm2002s-projects.vercel.app/
 </div>
   
