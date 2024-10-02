@@ -9,13 +9,6 @@ Visit my portfolio
   
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhinm2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinm2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://j.gifs.com/vb7leq.gif"  />
 
 ###
@@ -79,8 +72,3 @@ Visit my portfolio
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinm2002&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinm2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinm2002" alt="tuhinm2002" /></a> </p>
-
-###
