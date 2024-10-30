@@ -68,7 +68,5 @@ Visit my portfolio
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tuhinm2002/tuhinm2002/output/snake.svg" alt="Snake animation" />
-
 ###
 
