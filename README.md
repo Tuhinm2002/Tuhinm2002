@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tuhin and I'm a Backend and AI developer from India</h2>
+<h2 align="left">Hi 👋! My name is Tuhin and I'm a Machine Learning Engineer and AI developer from India</h2>
 
 ###
 
